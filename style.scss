@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#heading{
+    position: absolute;
+    top: 150px;
+}
+.box{
+    height: 200px;
+    width: 400px;
+    padding: 60px;
+    background: #ce0e2b;
+    border-radius: 5px;
+}
+#res{
+    position: absolute;
+    bottom: 120px;
+    left: 350px;
+}
